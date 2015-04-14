@@ -1,0 +1,55 @@
+- title: Home
+  url: "/"
+  side: left
+
+- title: About
+  url: "/about/"
+  side: left
+  dropdown:
+  - title: "About Us"
+    url: "/about/"
+  - title: "Executive"
+    url: "/about/executive/"
+  - title: "School Songs"
+    url: "/about/school-songs/"
+  - title: "Awards"
+    url: "/about/awards/"
+
+- title: Join
+  url: "/join/"
+  side: left
+  dropdown:
+  - title: "FAQs"
+    url: "/join/faqs/"
+  - title: "Testimonials"
+    url: "/join/testimonials/"
+  - title: "Join Now!"
+    url: "/join/"
+    
+- title: Support
+  url: "/support/"
+  side: left
+
+- title: Request
+  url: "/request/"
+  side: left
+
+- title: Calendar
+  url: "/calendar/"
+  side: left
+
+- title: News
+  url: "/blog/"
+  side: left
+
+- title: "Search"
+  url: "/search/"
+  side: right
+
+- title: "Contact"
+  url: "/contact/"
+  side: right
+
+- title: "Members"
+  url: "https://orgsync.com/112496/groups"
+  side: right
