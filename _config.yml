@@ -209,7 +209,7 @@ google_analytics_tracking_id: UA-60112281-1
 # PROSE
 
 prose:
-  rooturl: '_posts'
+  rooturl: ''
   siteurl: 'http://mbogard0.github.io/'
   relativeLinks: 'http://prose.github.io/starter/links.jsonp'
   media: 'media'
@@ -234,7 +234,7 @@ prose:
               value: "news"
             - name: "Other"
               value: "other"
-    _posts/pages:
+    pages:
       - name: "layout"
         field:
           element: "select"
@@ -255,7 +255,7 @@ prose:
         field:
           element: "hidden"
           value: "false"
-    _posts/redirects:
+    redirects:
       - name: "layout"
         field:
           element: "hidden"
