@@ -228,6 +228,8 @@ prose:
     - humans.txt
     - robots.txt
     - sitemap.xml
+    - /assets
+    - config_dev.yml
   metadata:
     _posts:
       - name: "layout"
