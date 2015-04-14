@@ -247,6 +247,11 @@ prose:
           element: "text"
           label: "Subheadline"
           value: ""
+      - name: "teaser"
+        field:
+          element: "text"
+          label: "Teaser"
+          value: ""
       - name: "categories"
         field:
           element: "select"
