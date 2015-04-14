@@ -230,7 +230,8 @@ prose:
     - sitemap.xml
     - /assets
     - _config_dev.yml
-    - /sass
+    - /_sass
+    - /_site
   metadata:
     _posts:
       - name: "layout"
