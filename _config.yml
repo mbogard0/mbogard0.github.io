@@ -234,10 +234,27 @@ prose:
     - /_site
   metadata:
     _posts:
+      - name: "title"
+        field:
+          element: "text"
+          label: "title"
       - name: "layout"
         field:
           element: "hidden"
           value: "page"
+      - name: "subheadline"
+        field:
+          element: "text"
+          label: "Subheadline"
+          value: ""
+      - name: "categories"
+        field:
+          element: "select"
+          label: "Select Category"
+          placeholder: "Select Category"
+          options:
+            - name: "News"
+              value: "news"
       - name: "tags"
         field:
           element: "multiselect"
@@ -249,6 +266,10 @@ prose:
             - name: "Other"
               value: "other"
     pages:
+      - name: "title"
+        field:
+          element: "text"
+          label: "title"
       - name: "layout"
         field:
           element: "select"
@@ -260,6 +281,11 @@ prose:
               value: "page-fullwidth"
             - name: "Video"
               value: "video"
+      - name: "subheadline"
+        field:
+          element: "text"
+          label: "Subheadline"
+          value: ""
       - name: "permalink"
         field:
           element: "text"
