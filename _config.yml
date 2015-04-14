@@ -218,6 +218,16 @@ prose:
     - _config.yml
     - /_layouts
     - /_includes
+    - /.sass-cache
+    - /_data
+    - /blog
+    - /images
+    - LICENSE
+    - README.md
+    - feed.xml
+    - humans.txt
+    - robots.txt
+    - sitemap.xml
   metadata:
     _posts:
       - name: "layout"
