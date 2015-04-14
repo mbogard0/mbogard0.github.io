@@ -7,6 +7,7 @@ subheadline: "For your viewing pleasure!"
 tags: 
   - photos
   - social media
+teaser: "High-quality marching band photos are now available for download!"
 ---
 
 The band now has a [Flickr account](http://flickr.com/thunderbirdmb), so you can view and download high-quality photos of our gigs! We have uploaded photos from last month's Men's Rugby match vs. Cal, and will begin uploading our earlier photos throughout the term.
