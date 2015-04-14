@@ -260,6 +260,7 @@ prose:
           element: "multiselect"
           label: "Add Tags"
           placeholder: "Choose Tags"
+          alterable: "yes"
           options:
             - name: "News"
               value: "news"
