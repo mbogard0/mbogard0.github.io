@@ -44,6 +44,8 @@ widget-3:
   <a class="close-reveal-modal">&#215;</a>
 </div>
 
+<hr>
+
 <div class="row">
   <div class="medium-6 columns">
   <div class="fb-page" data-href="https://www.facebook.com/thunderbirdmb" data-width="500" data-hide-cover="false" data-show-facepile="true" data-show-posts="true"><div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/thunderbirdmb"><a href="https://www.facebook.com/thunderbirdmb">Thunderbird Marching Band</a></blockquote></div></div>
