@@ -11,7 +11,7 @@ header:
 widget-1:
     title: "Request the Band"
     url: '/request/'
-    text: "Looking for that extra bit of 'pep' for your event? The Thunderbird Marching Band is just what you need! We perform nearly everywhere, no sound system needed, and our large setlist means we'll play something for everyone to ejnoy."
+    text: "Looking for that extra bit of 'pep' for your event? The Thunderbird Marching Band is just what you need! We perform nearly everywhere, no sound system needed, and our large setlist means we'll play something for everyone to enjoy."
     image: homepage_request-302x182.jpg
 widget-2:
     title: "Join the Band"
