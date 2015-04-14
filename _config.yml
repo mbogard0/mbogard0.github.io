@@ -229,7 +229,7 @@ prose:
     - robots.txt
     - sitemap.xml
     - /assets
-    - config_dev.yml
+    - _config_dev.yml
     - /sass
   metadata:
     _posts:
