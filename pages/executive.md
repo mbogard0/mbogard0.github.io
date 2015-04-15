@@ -1,10 +1,14 @@
 ---
-layout: page-fullwidth
 show_meta: false
-title: "The Executive"
-subheadline: "Our Student Leaders"
-permalink: "/about/executive/"
+layout: "page-fullwidth"
+title: The Executive
+subheadline: Our Student Leaders
+permalink: /about/executive/
+published: true
 ---
+
+The Thunderbird Marching Band is led by our six-member Executive team, consisting entirely of UBC students. You can see a further in-depth look at our organizational structure in our [Constitution](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnx0aHVuZGVyYmlyZG1hcmNoaW5nYmFuZHxneDo1NzE1MDYxMWY5NjhhMDky).
+
 ##President: Vivienne Zhang
 _<president@thunderbirdband.ca>_
 
