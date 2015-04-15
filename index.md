@@ -21,7 +21,7 @@ widget-2:
     <br>2. Be part of a tight-knit community on UBC's large campus
     <br>3. Gain leadership experience
     <br>4. We're multicultural!"
-    video: '<a href="#" data-reveal-id="videoModal"><img src="http://phlow.github.io/feeling-responsive/images/start-video-feeling-responsive-302x182.jpg" width="302" height="182" alt=""></a>'
+    image: homepage_join-302x182.jpg
 widget-3:
     title: "Support the Band"
     url: '/support/'
@@ -36,13 +36,6 @@ widget-3:
   js.src = "//connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v2.3";
   fjs.parentNode.insertBefore(js, fjs);
 }(document, 'script', 'facebook-jssdk'));</script>
-
-<div id="videoModal" class="reveal-modal large" data-reveal="">
-  <div class="flex-video widescreen vimeo" style="display: block;">
-    <iframe width="1280" height="720" src="https://www.youtube.com/embed/3b5zCFSmVvU" frameborder="0" allowfullscreen></iframe>
-  </div>
-  <a class="close-reveal-modal">&#215;</a>
-</div>
 
 <hr>
 
